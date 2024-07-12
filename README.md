@@ -14,6 +14,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=14anjana&show_icons=true&locale=en&layout=compact" alt="14anjana" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=14anjana&show_icons=true&locale=en" alt="14anjana" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=14anjana&" alt="14anjana" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=14anjana&" alt="14anjana" /></p>
